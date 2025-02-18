@@ -88,7 +88,7 @@ etc...
 
 <p align="center">
   <a href="https://github.com/DavidSM14/proyectoWebCJMWReactNodejs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSM14&repo=TU_REPOSITORIO_DESTACADO&theme=radical" alt="Top Contributed Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSM14&repo=proyectoWebCJMWReactNodejs&theme=radical" alt="Top Contributed Repo">
   </a>
 </p>
 
