@@ -23,7 +23,7 @@ Siempre estoy en búsqueda de nuevos desafíos que me permitan crecer profesiona
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-s%C3%A1nchez-moreno-25b8a9308)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:davidsanchezmoreno2103@ejemplo.com)
 <!-- Agrega más badges de redes sociales si lo deseas:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
