@@ -1,7 +1,7 @@
 ﻿<p align="center">
   <a href="https://github.com/DavidSM14">
     <!-- Si tienes una imagen de perfil que quieras mostrar, cámbiala aquí -->
-    <img src="https://raw.githubusercontent.com/DavidSM14/DavidSM14/main/tu-imagen-de-perfil.png" alt="Foto de Perfil" width="150" style="border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/DavidSM14/DavidSM14/main/[tu-imagen-de-perfil.png](https://drive.google.com/file/d/1Sfykvi_RNvsul_9BAf8v-SF3oEGvOwVK/view?usp=drive_link)" alt="Foto de Perfil" width="150" style="border-radius: 50%;">
   </a>
 </p>
 
